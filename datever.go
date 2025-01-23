@@ -1,4 +1,4 @@
-package datever
+package datever // import "code.nkcmr.net/datever"
 
 import (
 	"fmt"
